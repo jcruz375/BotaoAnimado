@@ -1,0 +1,18 @@
+#button {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    color: cornsilk;
+    font-family: fantasy;
+    font-size: 25px;
+    border-color:goldenrod ;
+    transition: 0.5s;
+    box-shadow:15px 15px 15px gray;
+}
+
+#button:hover{
+    background-color: #6CA6CD;
+    color: black;
+    width: 400px;
+    height: 100px;
+}
